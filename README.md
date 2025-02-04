@@ -1,1 +1,1 @@
-# nmapCasero
+Desarrollar un programa en Python que actúa como un escáner de puertos simple, similar a Nmap. El programa debe aceptar una dirección IP como entrada, validar su formato y comprobar su disponibilidad en la red antes de proceder con el escaneo de puertos.
